@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Bicep Curl",
+    "muscle": "Bicep",
+    "equipment": "Dumbell"
+  },
+  {
+    "name": "Shoulder Press",
+    "muscle": "Shoulder",
+    "equipment": "Barbell"
+  }
+]
